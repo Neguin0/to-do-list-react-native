@@ -6,3 +6,6 @@ I took a base from an internet interface and started doing the front-end, I made
 
 ## Screenshots
 ![Mobile](source/assets/screenshots.png)
+
+## Special thanks
+- [Eriton](https://github.com/both-eritons)
